@@ -65,4 +65,7 @@
         <item>265</item> <!--item>sensorLocationY</item-->
         <item>250</item> <!--item>sensorRadius</item-->
     </array>
+     
+    <!-- Screen off UDFPS -->
+    <bool name="config_supportScreenOffUdfps">true</bool> 
 </resources>
