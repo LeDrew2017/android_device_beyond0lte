@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_beyond0lte.mk
+    $(LOCAL_DIR)/bliss_beyond0lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_beyond0lte-eng \
-    xtended_beyond0lte-user \
-    xtended_beyond0lte-userdebug
+    bliss_beyond0lte-eng \
+    bliss_beyond0lte-user \
+    bliss_beyond0lte-userdebug
